@@ -1,6 +1,6 @@
 # Advent of Code 2021
 
-This repo contains my solutions for [Advent of Code](https://adventofcode.com/) 2021. I only optimize my code in thiis project when the solution is not coming out fast enough. Code style / readability... out of the window.
+This repo contains my solutions for [Advent of Code](https://adventofcode.com/) 2021. I only optimize my code in this project when the solution is not coming out fast enough. Code style / readability... out of the window.
 
 ## Day 1
 
