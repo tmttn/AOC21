@@ -144,9 +144,7 @@
       },
       0
     );
-
-    console.log(lastDrawnNumber);
-    console.log(allZeroedBoards);
+    
     console.log(`Day 4, star 2: ${sum * lastDrawnNumber}`);
   };
 })();
