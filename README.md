@@ -9,3 +9,11 @@ Solved with node, extensive use of GitHub Copilot.
 ## Day 2
 
 Solved with node, partially using GitHub Copilot and some tweaking. Funny detail: the proposed Copilot code referenced Santa: was this the solution to another year's challenge?
+
+## Day 3
+
+GitHub Copilot is still going strong, but I did struggle a bit.
+
+## Day 4
+
+Manipulating multi-dimensional arrays becomes easy when you don't have to think about it.

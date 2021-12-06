@@ -26,7 +26,7 @@ const { count } = require('console');
     gamma = parseInt(gamma, 2);
     epsilon = parseInt(epsilon, 2);
 
-    console.log(`Day 2, star 1: ${parseInt(gamma * epsilon)}`);
+    console.log(`Day 3, star 1: ${parseInt(gamma * epsilon)}`);
   };
 
   // Read binary numbers from file src/03/input.txt. Consider every position in the binary number and get the most common bit. Filter out all numbers that don't have the most common bit at the position. Repeat until one number remains. Print the last remaining number.
@@ -76,6 +76,6 @@ const { count } = require('console');
     const oxygen = parseInt(lines[0], 2);
     const co2 = parseInt(leastCommonLines[0], 2);
 
-    console.log(`Day 2, star 2: ${parseInt(oxygen * co2)}`);
+    console.log(`Day 3, star 2: ${parseInt(oxygen * co2)}`);
   };
 })();
