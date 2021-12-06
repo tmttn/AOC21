@@ -17,3 +17,11 @@ GitHub Copilot is still going strong, but I did struggle a bit.
 ## Day 4
 
 Manipulating multi-dimensional arrays becomes easy when you don't have to think about it.
+
+## Day 5
+
+Copilot had to propose some alternatives for diagonal lines. :-)
+
+## Day 6
+
+Copilot did not give the most optimal solution right away, but it thought along nicely when I did.
