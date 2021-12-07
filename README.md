@@ -25,3 +25,7 @@ Copilot had to propose some alternatives for diagonal lines. :-)
 ## Day 6
 
 Copilot did not give the most optimal solution right away, but it thought along nicely when I did.
+
+## Day 7
+
+This was kinda easy. The logic was simple, just had Copilot work out the code line per line. Not sure why I had to substract 1 from the average positions, but I did some investigating around the average and it turned out to be the correct answer. As the total consumed fuel was lower.
