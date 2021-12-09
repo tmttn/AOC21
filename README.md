@@ -33,3 +33,7 @@ This was kinda easy. The logic was simple, just had Copilot work out the code li
 ## Day 8
 
 Lots of manual labor today. GitHub Copilot did not like 7-digit numbers...
+
+## Day 9
+
+GitHub Copilot; Grid logic. Easy.
