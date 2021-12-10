@@ -37,3 +37,7 @@ Lots of manual labor today. GitHub Copilot did not like 7-digit numbers...
 ## Day 9
 
 GitHub Copilot; Grid logic. Easy.
+
+## Day 10
+
+Scoring and filtering did not go well with Copilot. Figuring out the brackets had to be done in multiple steps for Copilot to understand.
