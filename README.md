@@ -41,3 +41,7 @@ GitHub Copilot; Grid logic. Easy.
 ## Day 10
 
 Scoring and filtering did not go well with Copilot. Figuring out the brackets had to be done in multiple steps for Copilot to understand.
+
+## Day 11
+
+Creating a simulation object really helped Copilot to provide the correct autocompletes.

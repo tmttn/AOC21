@@ -8,6 +8,7 @@ const solution07 = require("./07/solution");
 const solution08 = require("./08/solution");
 const solution09 = require("./09/solution");
 const solution10 = require("./10/solution");
+const solution11 = require("./11/solution");
 
 solution01.solve();
 solution01.solve2();
@@ -29,4 +30,6 @@ solution09.solve();
 solution09.solve2();
 solution10.solve();
 solution10.solve2();
+solution11.solve();
+solution11.solve2();
 
